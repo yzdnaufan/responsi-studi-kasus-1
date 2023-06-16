@@ -1,8 +1,11 @@
 # Responsi Senior Project - Studi Kasus 1
 
 Nama : Ahmad Yazid Naufan  
+
 NIU : 460537
+
 Sesi : 2 
+
 Secret String :  611aecf3b49e93b64a20a11870387f9e46a63515a8e2186ce08378d98657e1b020230616081124
 
 ## Checklist Responsi
